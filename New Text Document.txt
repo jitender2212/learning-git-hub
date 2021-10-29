@@ -1,3 +1,4 @@
 learning git and git hub from u tube
 
-dev branch ;
+
+open git 
